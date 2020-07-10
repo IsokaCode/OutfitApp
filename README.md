@@ -6,7 +6,7 @@ Tkinter
 Pillow
 Playsound
 
-#To Do
+# To Do
 Add Shoe catagory
 improve UX/UI
 Upload and story user images
